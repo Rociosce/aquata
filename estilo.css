@@ -1,0 +1,74 @@
+estilo
+.footer {
+    text-align: center;
+    font-size: 90%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #a5640e; }
+  
+  .header {
+    text-align: center;
+    width: auto;
+    margin-top: 0%;
+    padding: 0%; }
+    .header .nav {
+      background-color: darkcyan; }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; }
+  
+  body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, auto);
+    list-style: none; }
+  
+  .claseBarraDeNavegacion {
+    font-size: 20px;
+    background-color: burlywood;
+    color: darkcyan;
+    border-radius: 5%;
+    justify-content: center; }
+  
+  .losElegidos {
+    box-sizing: content-box;
+    margin: 20%;
+    padding: auto; }
+  
+  .subtitulo {
+    color: chocolate;
+    font-size: 140%; }
+  
+  h1 {
+    color: peru;
+    text-align: center; }
+  
+  h2 {
+    color: #ddb83c; }
+  
+  h3 {
+    color: coral;
+    text-align: right; }
+  
+  .consejoDelMes {
+    text-align: center;
+    color: chocolate;
+    font-size: 30px; }
+  
+  .formulario {
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+    color: sandybrown;
+    font-family: 'Lucida Sans'; }
+  
+  .paisajeDeFondo {
+    color: #087732;
+    margin: 5%;
+    overflow: auto;
+    border: solid;
+    border-color: white; }
