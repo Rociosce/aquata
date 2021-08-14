@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+    width: auto;
+    margin-top: 0%;
+    padding: 0%;
+    
+.nav {
+    background-color: darkcyan;
+}
+}
+.titulo {
+    animation-duration: 2s;
+    animation-name: aparecer;
+ }
+ 
+ 
+ @keyframes aparecer {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+ }
+ h1 {
+    color: peru;
+    text-align: center;
+}
